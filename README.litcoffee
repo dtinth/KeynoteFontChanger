@@ -1,5 +1,7 @@
 
 This is probably the world's first JavaScript for Automation script written in Literate CoffeeScript.
+Yes, the very file you are reading is an executable script.
+To run it, see the instructions at bottom.
 
 
 Change Keynote Master Font
